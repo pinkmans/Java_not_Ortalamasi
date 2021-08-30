@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class notOrtalaması{
+public class notOrtalamasi{
     public static void main(String [] args){
         // değişken tanımlama işlemi
         double mat, fiz , kim , tur , muz;
